@@ -1,1 +1,2 @@
 # Day-6-of-100daysofcode
+I worked on HackerRank Day 8 Dictionaries and maps 30 days of code problem: you are Given n names and phone numbers, and are required to assemble a phone book that maps friends' names to their respective phone numbers. You will then be given an unknown number of names to query your phone book for. For each name queried, print the associated entry from your phone book on a new line in the form name=phoneNumber; if an entry for the name is not found, print Not found instead
